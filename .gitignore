@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.DS_Store
+/*.env
+/*.dev
+yarn.lock
+package-lock.json
+heroku.sh
